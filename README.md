@@ -1,6 +1,8 @@
-I# LICH-TEST
+## LICH-TEST
 
 LICH-TEST - Liquid Water, Interfacial, Cubic and Hexagonal Ice Classification through Eclipsed and Staggered Conformation Template Matching - is a tool for classifying different ice types in atomistic simulations.
+
+![Alt text](/img/lich_toc_top_1280.png?raw=true "LICHTEST")
 
 ## Requirements
 
