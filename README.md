@@ -9,15 +9,19 @@ LICH-TEST - Liquid Water, Interfacial, Cubic and Hexagonal Ice Classification th
 Versions for Matlab and Python.
 This module requires the following modules:
 
+(For Python 3)
  * Numpy
  * SciPy
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install lich-test. Real instructions later.
+Download the code
+
+in Matlab:
 
 ```bash
-pip install lich-test
+cd lich_test_matlab_public_22122020/
+script
 ```
 
 ## Usage
@@ -27,6 +31,12 @@ import lich-test
 
 lich-test('input') # explanation of what happens comes here
 Real usage instructions arriving later.
+```
+```Matlab:
+
+```bash
+cd lich_test_matlab_public_22122020/
+script
 ```
 
 ## Maintainers
