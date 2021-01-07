@@ -12,31 +12,31 @@ This module requires the following modules:
 (For Python 3)
  * Numpy
  * SciPy
+ ```bash
+ conda activate base  # example for using the above libraries from Anaconda
+```
 
 ## Installation
 
 Download the code
 
-in Matlab:
-
-```bash
-cd lich_test_matlab_public_22122020/
-script
-```
-
 ## Usage
 
-```python
-import lich-test
+Set filename (the simulation cell including water as atom type
+O/OW/mW) in script.m / script.py.
 
-lich-test('input') # explanation of what happens comes here
-Real usage instructions arriving later.
-```
-```Matlab:
+Matlab:
 
 ```bash
 cd lich_test_matlab_public_22122020/
 script
+```
+
+Python
+
+```bash
+cd lich_test_python_public_07012021/
+python script.py
 ```
 
 ## Maintainers
