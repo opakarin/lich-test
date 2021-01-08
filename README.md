@@ -22,17 +22,17 @@ Download the code
 
 ## Usage
 
-Set filename (the simulation cell including water as atom type
-O/OW/mW) in script.m / script.py.
-
 Matlab:
 
 ```bash
-cd lich_test_matlab_public_22122020/
-script
+cd lich_test_matlab_public_*version*/
+Main_Ice_Recog_func(filename,filetype)
 ```
 
 Python
+
+Set filename (the simulation cell including water as atom type
+O/OW/mW) in script.py.
 
 ```bash
 cd lich_test_python_public_07012021/
