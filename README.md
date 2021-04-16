@@ -4,6 +4,9 @@ LICH-TEST - Liquid Water, Interfacial, Cubic and Hexagonal Ice Classification th
 
 ![Alt text](/img/lich_toc_top_1280.png?raw=true "LICHTEST")
 
+Algorithm is published in the Journal of Physical Chemistry B (2021)
+[https://doi.org/10.1021/acs.jpcb.1c01926](https://doi.org/10.1021/acs.jpcb.1c01926)
+
 ## Requirements
 
 Versions for Matlab and Python.
@@ -38,6 +41,9 @@ O/OW/mW) in script.py.
 cd lich_test_python_public_07012021/
 python script.py
 ```
+
+Note that the Python version is missing some of the functionality of
+the more recent Matlab version.
 
 ## Maintainers
 
